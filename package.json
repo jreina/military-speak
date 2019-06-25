@@ -1,6 +1,6 @@
 {
     "name": "military-speak",
-    "version": "1.0.0",
+    "version": "0.0.1",
     "description": "It's military speak, but like way over the top.",
     "main": "index.js",
     "scripts": {
