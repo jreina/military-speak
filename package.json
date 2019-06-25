@@ -1,0 +1,23 @@
+{
+    "name": "military-speak",
+    "version": "1.0.0",
+    "description": "It's military speak, but like way over the top.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jreina/military-speak.git"
+    },
+    "keywords": [],
+    "author": {
+        "name": "Johnny Reina",
+        "url": "https://johnnyreina.com"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/jreina/military-speak/issues"
+    },
+    "homepage": "https://github.com/jreina/military-speak#readme"
+}
